@@ -20,11 +20,4 @@ I'm actively seeking internship opportunities in the field of data science, mach
 - 📧 Feel free to email me at jvishwajith4@gmail.com
 - 📱 You can also reach me at 9790228681
 
-## Let's Connect
-
-I'm excited to connect with fellow data enthusiasts, professionals, and potential collaborators. Let's work together to explore the exciting world of data science!
-
-[LinkedIn](https://www.linkedin.com/in/vishwajith-j-736652248)
-[GitHub](https://github.com/jvishwajith)
-
 Thank you for visiting my profile. Let's make data-driven magic together!
