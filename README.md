@@ -24,7 +24,7 @@ I'm actively seeking internship opportunities in the field of data science, mach
 
 I'm excited to connect with fellow data enthusiasts, professionals, and potential collaborators. Let's work together to explore the exciting world of data science!
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+[LinkedIn](https://www.linkedin.com/in/vishwajith-j-736652248)
 [GitHub](https://github.com/jvishwajith)
 
 Thank you for visiting my profile. Let's make data-driven magic together!
