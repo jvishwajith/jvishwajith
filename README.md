@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a passionate and talented data science enthusi
 ## About Me
 
 - 📚 I'm currently a student at Thiagarajar College of Engineering, specializing in Data Science.
-- 💻 Proficient in Python, Java, and C++, with a strong focus on data analysis, machine learning, and data visualization.
+- 💻 Proficient in C++ and Python with a strong focus on data analysis, machine learning, and data visualization.
 - 🌐 Skilled in front-end development, including HTML, CSS, and JavaScript, for designing web pages.
 - 📈 I have a strong foundation in mathematics and computational science, which enhances my data science capabilities.
-- 🤝 I'm a dedicated team player and eager to collaborate with others on meaningful data projects.
+- 🤝 I'm a dedicated team member and eager to collaborate with others on meaningful data projects.
 - 📊 I have a passion for turning data into actionable insights and solving real-world problems.
 
 ## What I'm Looking For
